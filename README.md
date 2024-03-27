@@ -173,8 +173,9 @@
         <td>₱69.00</td>
         <td><img src="Chai.png" alt="Chai Tea"></td>
     </tr>
-    
-       <th colspan="4">Extra's</th>
+    <tr>
+       <th colspan="4">Extras</th>
+       </tr>
     <tr>
         <td>Flavor Syrups</td>
         <td>Enhance your drink with a dash of sweetness or a burst of flavor from our selection of premium syrups.</td>
