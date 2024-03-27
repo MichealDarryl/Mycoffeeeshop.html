@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
     <style>
+        font-family: arial, sans serif;
+        text-aligh: center;
         body {
             background-image url(background.jpg);
             background-repeat: no-repeat;
