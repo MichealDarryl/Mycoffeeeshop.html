@@ -74,7 +74,6 @@
             <td><img src="Americano.avif " alt="Americano"> </td>      
        </tr>
         <tr>
-           
             <th colspan="4">Milk Teas</th>
         </tr>
         <tr>
