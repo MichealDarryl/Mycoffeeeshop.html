@@ -7,9 +7,13 @@
     <title>Coffee Menu</title>
      <center>
     <style>
-      body{  
-         background-color: #99ff99;
-      }
+      body{
+        background-image: url("backgrounds.webp");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        }
+      
       table {
             border-collapse: collapse;
             width: 80%;
