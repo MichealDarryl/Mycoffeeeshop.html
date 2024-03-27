@@ -7,7 +7,11 @@
     <title>Coffee Menu</title>
     <style>
         body {
-            background-color: #f1d060;
+            background-image url(background.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:cover;
+            background-psoition: center;
         }
         table {
             border-collapse: collapse;
