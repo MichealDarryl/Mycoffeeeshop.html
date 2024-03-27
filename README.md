@@ -72,7 +72,7 @@
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
             <td><img src="Americano.avif " alt="Americano"> </td>      
-    </tr>
+       </tr>
         <tr>
            
             <th colspan="4">Milk Teas</th>
