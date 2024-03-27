@@ -5,22 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
-     <center>
     <style>
-      body{
-          background-color: #f1d060;
-      }
-      table {
+        body {
+            background-color: #f1d060;
+        }
+        table {
             border-collapse: collapse;
             width: 80%;
             background-color: rgb(98, 201, 96);
         }
-        th, td,{
+        th, td {
             border: 1px solid #f3f1f1;
             text-align: left;
             padding: 8px;
         }
-            
         th {
             background-color: #f8f1f1;
         }
