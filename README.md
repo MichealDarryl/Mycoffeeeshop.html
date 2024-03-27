@@ -5,20 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
+     <center>
     <style>
-        body { 
-               background-color: #99ff99 
-              }
-        table {
+      body{
+          background-color: #99ff99;
+      }
+      table {
             border-collapse: collapse;
             width: 80%;
             background-color: rgb(98, 201, 96);
         }
-        th, td {
+        th, td,{
             border: 1px solid #f3f1f1;
             text-align: left;
             padding: 8px;
         }
+            
         th {
             background-color: #f8f1f1;
         }
@@ -63,13 +65,13 @@
             <td>Macchiato</td>
             <td>Bold espresso with a hint of creamy sweetness.</td>
             <td>₱89.99</td>
-            <td><img src="Machiato.png" alt="Macchiato"></td>
+            <td><img src="Machiato.png" alt="Macchiato">
         </tr>
         <tr>
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
-            <td><img src="Americano.avif " alt="Americano"></td>         
+            <td><img src="Americano.avif " alt="Americano">         
     </tr>
         <tr>
            
@@ -171,9 +173,8 @@
         <td>₱69.00</td>
         <td><img src="Chai.png" alt="Chai Tea"></td>
     </tr>
-    <tr>
-       <th colspan="4">Extras</th>
-       </tr>
+    
+       <th colspan="4">Extra's</th>
     <tr>
         <td>Flavor Syrups</td>
         <td>Enhance your drink with a dash of sweetness or a burst of flavor from our selection of premium syrups.</td>
@@ -207,7 +208,3 @@
       </table>
 </body>
 </html>
-
-       
-        
-     
