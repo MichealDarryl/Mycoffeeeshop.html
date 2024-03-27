@@ -65,13 +65,13 @@
             <td>Macchiato</td>
             <td>Bold espresso with a hint of creamy sweetness.</td>
             <td>₱89.99</td>
-            <td><img src="Machiato.png" alt="Macchiato">
+            <td><img src="Machiato.png" alt="Macchiato"></td>
         </tr>
         <tr>
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
-            <td><img src="Americano.avif " alt="Americano">         
+            <td><img src="Americano.avif " alt="Americano"></td>         
     </tr>
         <tr>
            
