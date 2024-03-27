@@ -6,15 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
     <style>
-        font-family: arial, sans serif;
-        text-aligh: center;
-        body {
-            background-image url(background.jpg);
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size:cover;
-            background-psoition: center;
-        }
+        body { 
+               background-color: #99ff99
+           
         table {
             border-collapse: collapse;
             width: 80%;
