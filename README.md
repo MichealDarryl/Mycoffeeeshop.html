@@ -8,12 +8,7 @@
      <center>
     <style>
       body{  
-        background-image: url("background.jpg");
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        }
-          
+         background-color: #99ff99;
       }
       table {
             border-collapse: collapse;
