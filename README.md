@@ -7,8 +7,8 @@
     <title>Coffee Menu</title>
     <style>
         body { 
-               background-color: #99ff99
-           }
+               background-color: #99ff99 
+              }
         table {
             border-collapse: collapse;
             width: 80%;
